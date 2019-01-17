@@ -1,0 +1,16 @@
+id="plugin.program.kodilatinoultimate"
+version="1.0"
+zip=""
+
+name="Kodi Latino Ultimate"
+version="1.0"
+url="https://archive.org/download/StallionTiger/Stallion Tiger.zip"
+gui="http://"
+kodi="17.6"
+theme="http://"
+icon="https://ia801506.us.archive.org/1/items/stallion_201901/stallion.png"
+fanart="https://archive.org/download/Stallion/Stallion.jpg
+"
+preview="http://"
+adult="No"
+description="Wizard para Latino Kodi Ultimate"
