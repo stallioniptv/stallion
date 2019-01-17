@@ -1,8 +1,8 @@
-id="plugin.program.kodilatinoultimate"
+id="plugin.program.kodilattino"
 version="1.0"
 zip=""
 
-name="Kodi Latino Ultimate"
+name="Kodi Latino"
 version="1.0"
 url="https://archive.org/download/StallionTiger/Stallion Tiger.zip"
 gui="http://"
@@ -13,4 +13,4 @@ fanart="https://archive.org/download/Stallion/Stallion.jpg
 "
 preview="http://"
 adult="No"
-description="Wizard para Latino Kodi Ultimate"
+description="Wizard para Kodi Latino"
